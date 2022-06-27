@@ -1,0 +1,32 @@
+.a-la-carte-container {
+    border-radius: 20px 20px 0 0;
+    background-color: grey;
+}
+
+.dish
+{
+    background-color: white;
+    &__link {
+        text-decoration: none;
+    }
+    &__description {
+        font-size: 22px;
+        display: flex;
+        &__name {
+            color: red;
+        }
+        &__condiment {
+            color: blue;
+        }
+    }
+    &__price {
+        font-size: 15px;
+    }
+    &__validate {
+        display: none;
+        color: green;
+    }
+}
+
+
+
