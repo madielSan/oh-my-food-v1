@@ -1,0 +1,30 @@
+.a-la-carte-container {
+  border-radius: 20px 20px 0 0;
+  background-color: grey;
+}
+
+.dish {
+  background-color: white;
+}
+.dish__link {
+  text-decoration: none;
+}
+.dish__description {
+  font-size: 22px;
+  display: flex;
+}
+.dish__description__name {
+  color: red;
+}
+.dish__description__condiment {
+  color: blue;
+}
+.dish__price {
+  font-size: 15px;
+}
+.dish__validate {
+  display: none;
+  color: green;
+}
+
+/*# sourceMappingURL=a-la-francaise.css.map */
