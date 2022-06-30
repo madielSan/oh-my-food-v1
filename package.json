@@ -4,11 +4,11 @@
   "description": "Compilation des fichiers SASS pour le projet Oh-my-food!",
   "main": "index.js",
   "scripts": {
-    "sass": "sass --watch ./_sass/main.scss:./css/style.css"
+    "sass": "sass --watch ./_sass/main.scss:./assets/css/style.css"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/madielSan/https://madielsan.github.io/.git"
+    "url": "git+https://github.com/madielSan/projet-oh-my-food.git"
   },
   "author": "madielSan",
   "license": "ISC",
