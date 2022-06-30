@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Compilation des fichiers SASS pour le projet Oh-my-food!",
   "scripts": {
-    "sass": "sass ./scss/main.scss:./css/main.css"
+    "sass": "sass ./sass:./css"
   },
   "repository": {
     "type": "git",
