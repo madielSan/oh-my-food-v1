@@ -1,3 +1,2 @@
 sass:
-  style: compact
-  possible values: nested expanded compact compressed
+  style: nested #possible values: nested expanded compact compressed
