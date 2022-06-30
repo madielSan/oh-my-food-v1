@@ -2,8 +2,9 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=sass
 
 ### Sass ###
+.css/
 .sass-cache/
-*./css
+*.css
 *.css.map
 *.sass.map
 *.scss.map
