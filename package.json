@@ -4,7 +4,7 @@
   "description": "Compilation des fichiers SASS pour le projet Oh-my-food!",
   "main": "index.js",
   "scripts": {
-    "sass": "sass --watch ./_sass/main.scss:./assets/css/style.css"
+    "sass": "sass --watch ./assets/css/main.scss:./assets/css/main.css"
   },
   "repository": {
     "type": "git",
